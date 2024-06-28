@@ -1,2 +1,2 @@
-# Identificação de Misoginia
-Classificação de texto - Identificação de misoginia
+# Identification of Misogyny
+Text Classification – Identification of Misogyny
